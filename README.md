@@ -12,17 +12,17 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{smiley-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{smileyofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{smiley-md}/count.svg" alt="smileyofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{smileyofc}/count.svg" /></p>
 
 
 <p align="center">
-<a href=""><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/smilo222/Queen-Smiley"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/smilo222/Queen-Smiley"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/lakaofc/laka-md/fork"><img title="QUEEN-SMILEY-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/smilo222/Queen-Smiley"><img title="QUEEN-SMILEY-MD" src="https://img.shields.io/badge/FORK-SMILEY,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
