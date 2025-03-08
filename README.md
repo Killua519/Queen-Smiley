@@ -40,7 +40,7 @@ You will need a session ID to run the SMILEY=MD. Click the button below to obtai
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://lakamdweb-856c6c7aa5d7.herokuapp.com' target="_blank">
+<a href='https://fearless-session-5byf.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
