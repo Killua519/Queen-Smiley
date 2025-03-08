@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=SMILEY-MD-V1" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.ibb.co/DfzLTBvB/image-1741179875839.jpg'/></a>
+<a><img src='https://i.ibb.co/6L5dngD/748f7ae587e5.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/smilo222"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Jay-FF7604.svg?style=big-square&logo=github" /></a>
