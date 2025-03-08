@@ -1,72 +1,158 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=QUEEN-SMILEY-MD-V1.0" alt="Typing SVG" /></a>
+  </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.ibb.co/DfzLTBvB/image-1741179875839.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
 
 
----
+<p align="center">
+<a href="https://github.com/lakaofc/laka-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
+</p>
+</p> 
 
-Queen-Smiley
+<p align="center">
+  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
 
-*Queen-Smiley* is a powerful and intuitive chatbot that can help you with multiple functionalities, from automating tasks to engaging with users. This bot is built with a variety of features to enhance user interaction, and it's perfect for anyone looking to create a seamless experience for users in your system.
 
-Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+***
 
-Introduction
+### 1. Fork This Repository
 
-Queen-Smiley is designed to provide fast and reliable assistance to users with a variety of commands and tasks. The bot uses advanced algorithms to automate conversations and handle routine queries effortlessly. It's a versatile bot ideal for handling common queries, providing information, or even controlling services on your platform.
+Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-Features
+  <a href="https://github.com/lakaofc/laka-md/fork"><img title="QUEEN-SMILEY-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
 
-- *Custom Commands*: You can create personalized commands for various tasks.
-- *User Interaction*: Engages users with fun and informative messages.
-- *Real-Time Updates*: Offers live updates on different aspects of your system or platform.
-- *Secure and Fast*: Ensures fast responses and secure handling of data.
+You will need a session ID to run the SMILEY=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
----
+> **Get Pair Code (Session ID)**
 
-Installation
-
-To install and run *Queen-Smiley* locally, follow these steps:
-
-1. *Clone the repository:*
-    ```bash
-    
-    cd Queen-Smiley
-    ```
-
-2. *Install the required dependencies:*
-    ```bash
-    npm install
-    ```
-
-3. *Set up your bot configuration:*
-    - Open the `config.js` file and fill in the necessary details (e.g., API keys, tokens, etc.).
-
-4. *Start the bot:*
-    ```bash
-    node index.js
-    ```
+<a href='https://lakamdweb-856c6c7aa5d7.herokuapp.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
 ---
 
-Usage
+# Deployment
 
-Once the bot is running, you can start interacting with it on your chosen platform (e.g., WhatsApp). Here are some example commands you can try:
-
-- *!help* - Display the list of available commands.
-- *!start* - Start the bot and receive a welcome message.
-- *!status* - Check the current status of the bot.
-- *!commands* - View all the bot's available commands.
-
-You can also add more commands by modifying the bot's configuration or script.
+You can deploy this bot for free on the following platforms:
 
 ---
 
-Contributing
+###  Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md.git)
 
-We welcome contributions to improve *Queen-Smiley*. To contribute:
+---
 
-1. Fork this repository.
+###  Replit
+[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/lakaofc/laka-md)
+
+---
+
+
+###  Railway
+[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=lakaofc)
+
+---
+
+###  Koyeb
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/lakaofc/laka-md)
+
+---
+
+
+###  Render
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/lakaofc/laka-md)
+
+---
+
+
+### GitHub Actions Workflows
+
+#### Node.js CI
+
+You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+
+
+## 🔗 QUEEN-SMILEY INFO
+
+---
+
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
+
+![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
+
+![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Laka%20ofc&color=purple&style=plastic)
+----
+
+## 🌐 WhatsApp Channel 
+
+---
+
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D)
+
+---
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
