@@ -22,7 +22,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/smilo222/Queen-Smiley"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/smilo222/Queen-Smiley"><img title="Release" src="https://img.shields.io/badge/Release-%20v1.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
