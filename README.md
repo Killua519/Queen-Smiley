@@ -4,7 +4,7 @@
 <a><img src='https://i.ibb.co/DfzLTBvB/image-1741179875839.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/smilo222"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Jay-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -12,11 +12,11 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8na0X7dmeY1ZhcFh2D)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{smiley-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{smileyofc}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/lakaofc/laka-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href=""><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
