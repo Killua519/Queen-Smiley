@@ -53,30 +53,14 @@ You can deploy this bot for free on the following platforms:
 
 ---
 
-###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md.git)
-
----
-
-###  Replit
-[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/lakaofc/laka-md)
-
----
-
-
-###  Railway
-[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=lakaofc)
-
----
-
 ###  Koyeb
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/lakaofc/laka-md)
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/smilo222/Queen-Smiley)
 
 ---
 
 
 ###  Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/lakaofc/laka-md)
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/smilo222/Queen-Smiley)
 
 ---
 
@@ -129,13 +113,13 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/smilo222/Queen-Smiley&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/smilo222/Queen-Smiley?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/smilo222/Queen-Smiley?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
+![forks](https://img.shields.io/github/forks/smilo222/Queen-Smiley?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/smilo222/Queen-Smiley?style=social)
 
 ![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
