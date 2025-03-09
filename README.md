@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://github.com/smilo222/Queen-Smiley"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=smileyofc&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -62,6 +62,8 @@ You can deploy this bot for free on the following platforms:
 ###  Render
 [![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/smilo222/Queen-Smiley)
 
+---
+###  SMILEY MD CAN BE DEPLOYED ON PANEL ✅
 ---
 
 
