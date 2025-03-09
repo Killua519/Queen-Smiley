@@ -1,0 +1,47 @@
+Skip to content
+Navigation Menu
+
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+PATRON-MD
+/app.json
+ 
+18 lines (18 loc) · 516 Bytes
+
+Code
+
+Blame
+{
+  "name": "QUEEN-SMILEY-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/smilo222/Queen-Smiley",
+  "logo": "https://i.ibb.co/6L5dngD/748f7ae587e5.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
